@@ -1,3 +1,8 @@
+---
+type: note
+title: myagent-brain
+---
+
 # myagent-brain
 
 Personal knowledge brain for the myagent stack.
